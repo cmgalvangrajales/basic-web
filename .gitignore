@@ -1,0 +1,2 @@
+#Node Modules to be ignored on commits
+node_modules/
